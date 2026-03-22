@@ -24,7 +24,15 @@ A desktop-based Employee Management System developed using Java Swing and MySQL 
 
 ## Screenshot
 
-![App Screenshot](screenshots/app.png)
+## Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/gayani7/Billing-System-in-Java/blob/master/Screenshot.png?raw=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
