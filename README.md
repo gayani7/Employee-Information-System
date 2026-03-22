@@ -22,20 +22,6 @@ A desktop-based Employee Management System developed using Java Swing and MySQL 
 
 ---
 
-## Screenshot
-
-## Screenshots
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/gayani7/Billing-System-in-Java/blob/master/Screenshot.png?raw=true" width="300"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Database Structure
 
 `sql
@@ -48,3 +34,19 @@ CREATE TABLE employee(
     phone INT(10),
     salary INT(11)
 );
+
+---
+
+
+## Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="Employee system.png" width="600"/>
+    </td>
+  </tr>
+</table>
+
+---
+
